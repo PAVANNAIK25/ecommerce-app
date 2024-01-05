@@ -16,7 +16,7 @@ export default class UserController {
         if (!user) {
             res.status(400).send("Invalid Credentials");
         } else {
-            const token = jwt.sign({user: user.email, id:user.id}, 'qxtNigEnO0aqLLfVayXRFU9yQBmcYMVK', { algorithm: "HS256", expiresIn: "1h" });
+            const token = jwt.sign({ user: user.email, id: user.id }, 'qxtNigEnO0aqLLfVayXRFU9yQBmcYMVK', { algorithm: "HS256", expiresIn: "1h" });
             res.status(200).send(token);
         }
     }

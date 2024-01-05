@@ -15,6 +15,7 @@ export const jwtAuth = (req, res, next)=>{
 
     try{
        const payload = jwt.verify(authHeader, 'qxtNigEnO0aqLLfVayXRFU9yQBmcYMVK');
+       req.body.id = payload.id;
        console.log(payload);
     }catch(err){
         console.log(err);
