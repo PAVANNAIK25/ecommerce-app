@@ -1,2 +1,0 @@
-{"level":"info","message":"Log Url: /api/users/sign-in - Log Data: {\"email\":\"customer@ecom.com\",\"password\":\"Password1\"}","service":"request Logging"}
-{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
