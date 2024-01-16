@@ -1,17 +1,28 @@
+import { getDb } from "../../mongoDB/mongoDB.js";
 
 export default class UserModel{
-    constructor(id, name, email, password, type){
-        this.id = id;
+    constructor(name, email, password, type){
         this.name = name;
         this.email = email;
         this.password = password;
         this.type = type;
     }
 
-    static signUp(name, email, password, type){
-        const newUser = new UserModel(users.length+1, name, email, password, type);
-        users.push(newUser);
-        return newUser;
+    static async signUp(name, email, password, type){
+        try {
+            const newUser = new UserModel(name, email, password, type);
+
+            const db = getDb();
+
+            const collection = db.collection('users');
+
+            await collection.insertOne(newUser);
+
+            return newUser;
+            
+        } catch (error) {
+            throw new Error(error.message);
+        }
     }
 
     static signIn(email, password){
