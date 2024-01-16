@@ -1,4 +1,5 @@
 import jwt from "jsonwebtoken";
+import ApplicationError from "../Error Handling/applicationError.js";
 
 export const jwtAuth = (req, res, next)=>{
 
@@ -12,14 +13,13 @@ export const jwtAuth = (req, res, next)=>{
     }
 
     // 3. check if token is valid or errors
-
     try{
        const payload = jwt.verify(authHeader, 'qxtNigEnO0aqLLfVayXRFU9yQBmcYMVK');
        req.body.id = payload.id;
+       next();
     }catch(err){
-        console.log(err);
+        throw new ApplicationError("Jwt Expired", 400);
     }  
     
-    next();
 
 }

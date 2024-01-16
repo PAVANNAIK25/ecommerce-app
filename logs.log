@@ -1,0 +1,6 @@
+{"level":"info","message":"Log Url: /api/users/sign-in - Log Data: {\"email\":\"seller2@gmail.com\",\"password\":\"Password1\"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"Jwt Expired","service":"request Logging"}

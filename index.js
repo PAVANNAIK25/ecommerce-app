@@ -8,12 +8,17 @@ import { basicAuth } from "./src/middlewares/basicAuth.middleware.js";
 import { jwtAuth } from "./src/middlewares/jwtAuth.middleware.js";
 import cartRouter from "./src/features/cart/cartItems.routes.js"
 import document from "./swagger.json" assert {type: "json"};
-import loggerMiddleware from './src/middlewares/logger.middleware.js'
+import loggerMiddleware, { logger } from './src/middlewares/logger.middleware.js'
+import ApplicationError from "./src/Error Handling/applicationError.js";
 
 
 const app = express();
+// CORS Policy, defining allowed origins and headers
 
+// using external middleware
 // app.use(cors());
+
+// manually defining the policy middleware
 app.use((req, res, next)=>{
     res.header('Access-Control-Allow-Origin' , 'http://127.0.0.1:5500');
     res.header('Access-Control-Allow-Headers' , '*');
@@ -36,6 +41,18 @@ app.use("/api/users", userRouter);
 
 app.get("/", (req, res) => {
     res.send("Hello World");
+})
+
+//Application level error handling
+
+app.use((err, req, res, next)=>{
+    if(err instanceof ApplicationError){
+        logger.error(err.message);
+        return res.status(err.code).send(err.message);
+    }
+        logger.error(err.message);
+    res.status(500).send("Something went wrong");
+
 })
 
 app.use((req, res)=> {
