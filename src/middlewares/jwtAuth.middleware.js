@@ -14,7 +14,7 @@ export const jwtAuth = (req, res, next)=>{
 
     // 3. check if token is valid or errors
     try{
-       const payload = jwt.verify(authHeader, 'qxtNigEnO0aqLLfVayXRFU9yQBmcYMVK');
+       const payload = jwt.verify(authHeader, process.env.SIGN_IN_JWT);
        req.body.id = payload.id;
        next();
     }catch(err){

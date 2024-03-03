@@ -4,3 +4,263 @@
 {"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
 {"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
 {"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"ProductRepository.getAllProducts is not a function","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"ProductRepository.getAll is not a function","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"productRepository is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/65a773a79a6dc433cf2891db - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"productController.get is not a function","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/65a773a79a6dc433cf2891db - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"productController.get is not a function","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/65a773a79a6dc433cf2891db - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/65a773a79a6dc433cf2891db - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/65a773a79a6dc433cf2891db - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/65a773a79a6dc433cf2891db - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/65a773a79a6dc433cf2891db - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/65a773a79a6dc433cf2891db - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"Query filter must be a plain object or ObjectId","service":"request Logging"}
+{"level":"error","message":"Query filter must be a plain object or ObjectId","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/?minPrice=10000&maxPrice=30000 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/?minPrice=10000&maxPrice=30000 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000&maxPrice=30000 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000&maxPrice=30000 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000&maxPrice=30000 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000&maxPrice=30000 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000&maxPrice=25000 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000&maxPrice=25000&category=2 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000&maxPrice=25000&category=1 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000&maxPrice=25000&category=catefory%201 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?minPrice=10000&maxPrice=25000&category=category%201 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/filter?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate?productId=65a7e0be77749f2cdbef3fd7&rating=4 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e0be77749f2cdbef3fd7\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e0be77749f2cdbef3fd7\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db2f5e76dc05a42b113e\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db2f5e76dc05a42b113e\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db2f5e76dc05a42b113e\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":3.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":4.5}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":3.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":3.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {\"query\":\"\\n    query IntrospectionQuery {\\n      __schema {\\n        \\n        queryType { name }\\n        mutationType { name }\\n        subscriptionType { name }\\n        types {\\n          ...FullType\\n        }\\n        directives {\\n          name\\n          description\\n          \\n          locations\\n          args {\\n            ...InputValue\\n          }\\n        }\\n      }\\n    }\\n\\n    fragment FullType on __Type {\\n      kind\\n      name\\n      description\\n      \\n      fields(includeDeprecated: true) {\\n        name\\n        description\\n        args {\\n          ...InputValue\\n        }\\n        type {\\n          ...TypeRef\\n        }\\n        isDeprecated\\n        deprecationReason\\n      }\\n      inputFields {\\n        ...InputValue\\n      }\\n      interfaces {\\n        ...TypeRef\\n      }\\n      enumValues(includeDeprecated: true) {\\n        name\\n        description\\n        isDeprecated\\n        deprecationReason\\n      }\\n      possibleTypes {\\n        ...TypeRef\\n      }\\n    }\\n\\n    fragment InputValue on __InputValue {\\n      name\\n      description\\n      type { ...TypeRef }\\n      defaultValue\\n      \\n      \\n    }\\n\\n    fragment TypeRef on __Type {\\n      kind\\n      name\\n      ofType {\\n        kind\\n        name\\n        ofType {\\n          kind\\n          name\\n          ofType {\\n            kind\\n            name\\n            ofType {\\n              kind\\n              name\\n              ofType {\\n                kind\\n                name\\n                ofType {\\n                  kind\\n                  name\\n                  ofType {\\n                    kind\\n                    name\\n                  }\\n                }\\n              }\\n            }\\n          }\\n        }\\n      }\\n    }\\n  \"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {\"query\":\"\\n    query IntrospectionQuery {\\n      __schema {\\n        \\n        queryType { name }\\n        mutationType { name }\\n        subscriptionType { name }\\n        types {\\n          ...FullType\\n        }\\n        directives {\\n          name\\n          description\\n          \\n          locations\\n          args {\\n            ...InputValue\\n          }\\n        }\\n      }\\n    }\\n\\n    fragment FullType on __Type {\\n      kind\\n      name\\n      description\\n      \\n      fields(includeDeprecated: true) {\\n        name\\n        description\\n        args {\\n          ...InputValue\\n        }\\n        type {\\n          ...TypeRef\\n        }\\n        isDeprecated\\n        deprecationReason\\n      }\\n      inputFields {\\n        ...InputValue\\n      }\\n      interfaces {\\n        ...TypeRef\\n      }\\n      enumValues(includeDeprecated: true) {\\n        name\\n        description\\n        isDeprecated\\n        deprecationReason\\n      }\\n      possibleTypes {\\n        ...TypeRef\\n      }\\n    }\\n\\n    fragment InputValue on __InputValue {\\n      name\\n      description\\n      type { ...TypeRef }\\n      defaultValue\\n      \\n      \\n    }\\n\\n    fragment TypeRef on __Type {\\n      kind\\n      name\\n      ofType {\\n        kind\\n        name\\n        ofType {\\n          kind\\n          name\\n          ofType {\\n            kind\\n            name\\n            ofType {\\n              kind\\n              name\\n              ofType {\\n                kind\\n                name\\n                ofType {\\n                  kind\\n                  name\\n                  ofType {\\n                    kind\\n                    name\\n                  }\\n                }\\n              }\\n            }\\n          }\\n        }\\n      }\\n    }\\n  \"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":10}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":10}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":10}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":15}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":10}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":15}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/65a94500c51d3b20f73d5059 - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":15}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/65a94500c51d3b20f73d5059 - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":15}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/65a944e5c51d3b20f73d5058 - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":15}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/65a944e5c51d3b20f73d5058 - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":15}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":2}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":2}","service":"request Logging"}
+{"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/1 - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/1 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/1 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/1 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/1 - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":4}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db205e76dc05a42b113d\",\"quantity\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db205e76dc05a42b113d\",\"quantity\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"quantity\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7db0b5e76dc05a42b113c\",\"quantity\":3}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/cartitmes/ - Log Data: {\"productId\":\"65a7e0be77749f2cdbef3fd7\",\"quantity\":6}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/orders/ - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":4}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":4}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":4}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":6}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category1%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category1%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category1%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category1%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category1%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category2%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category%202%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category%202%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category%202%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category%202%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category%202%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category%201%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=%22category%201%22 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=category%201 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=category%201 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=category%201 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=category%201 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price?category=category%201 - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/avg-price - Log Data: {\"productId\":\"65a7db205e76dc05a42b113d\",\"rating\":4}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db205e76dc05a42b113d\",\"rating\":4}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/ - Log Data: {}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65b7ae33d323f22791cdc5cf\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65b7ae33d323f22791cdc5cf\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65b7ae33d323f22791cdc5cf\",\"rating\":4.5}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65b7ae33d323f22791cdc5cf\",\"rating\":4.5}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65b7ae33d323f22791cdc5cf\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65b7ae33d323f22791cdc5cf\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65b7ae33d323f22791cdc5cf\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65b7ae33d323f22791cdc5cf\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":3.5}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":3.5}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":3.5}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":2}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e21777749f2cdbef3fd8\",\"rating\":2}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e0be77749f2cdbef3fd7\",\"rating\":2}","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e0be77749f2cdbef3fd7\",\"rating\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e0be77749f2cdbef3fd7\",\"rating\":3}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7e0be77749f2cdbef3fd7\",\"rating\":3}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db3b5e76dc05a42b113f\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db3b5e76dc05a42b113f\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db2f5e76dc05a42b113e\",\"rating\":4}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db2f5e76dc05a42b113e\",\"rating\":4}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db2f5e76dc05a42b113e\",\"rating\":5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a7db2f5e76dc05a42b113e\",\"rating\":2}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/products/rate - Log Data: {\"productId\":\"65a773a79a6dc433cf2891db\",\"rating\":4.5}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/likes/ - Log Data: {\"typeId\":\"65b7ae33d323f22791cdc5cf\",\"type\":\"Products\"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/likes/ - Log Data: {\"typeId\":\"65b7ab15d323f22791cdc5c8\",\"type\":\"Categories\"}","service":"request Logging"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/likes/ - Log Data: {\"typeId\":\"65b7ab15d323f22791cdc5c8\",\"type\":\"Category\"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/likes/ - Log Data: {\"typeId\":\"65b7ab15d323f22791cdc5c8\",\"type\":\"Category\"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/likes/ - Log Data: {\"typeId\":\"65b7ab15d323f22791cdc5ca\",\"type\":\"Category\"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/likes?typeId=65b7ab15d323f22791cdc5ca&type=Category - Log Data: {\"typeId\":\"65b7ab15d323f22791cdc5ca\",\"type\":\"Category\"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/likes?typeId=65b7ab15d323f22791cdc5ca&type=Category - Log Data: {\"typeId\":\"65b7ab15d323f22791cdc5ca\",\"type\":\"Category\"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/likes?typeId=65b7ab15d323f22791cdc5ca&type=Category - Log Data: {\"typeId\":\"65b7ab15d323f22791cdc5ca\",\"type\":\"Category\"}","service":"request Logging"}
+{"level":"info","message":"Log Url: /api/likes?typeId=65b7ab15d323f22791cdc5c8&type=Category - Log Data: {\"typeId\":\"65b7ab15d323f22791cdc5ca\",\"type\":\"Category\"}","service":"request Logging"}

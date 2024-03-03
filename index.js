@@ -1,3 +1,5 @@
+import dotenv from 'dotenv';
+dotenv.config();
 import express from "express";
 import swagger from 'swagger-ui-express';
 import cors from "cors";
@@ -10,6 +12,8 @@ import cartRouter from "./src/features/cart/cartItems.routes.js"
 import document from "./swagger.json" assert {type: "json"};
 import loggerMiddleware, { logger } from './src/middlewares/logger.middleware.js'
 import ApplicationError from "./src/Error Handling/applicationError.js";
+import orderRoutes from './src/features/order/order.routes.js';
+import likesRouter from './src/features/likes/likes.routes.js';
 
 
 const app = express();
@@ -38,6 +42,9 @@ app.use("/api-docs", swagger.serve, swagger.setup(document));
 app.use("/api/products", jwtAuth, productRouter);
 app.use("/api/cartitmes", jwtAuth, cartRouter);
 app.use("/api/users", userRouter);
+app.use("/api/orders", jwtAuth, orderRoutes);
+app.use("/api/likes", jwtAuth, likesRouter);
+
 
 app.get("/", (req, res) => {
     res.send("Hello World");

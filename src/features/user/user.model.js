@@ -1,4 +1,4 @@
-import { getDb } from "../../mongoDB/mongoDB.js";
+
 
 export default class UserModel{
     constructor(name, email, password, type){
@@ -8,27 +8,23 @@ export default class UserModel{
         this.type = type;
     }
 
-    static async signUp(name, email, password, type){
-        try {
-            const newUser = new UserModel(name, email, password, type);
-
-            const db = getDb();
-
-            const collection = db.collection('users');
-
-            await collection.insertOne(newUser);
-
-            return newUser;
+    // static async signUp(name, email, password, type){
+    //     try {
+    //         const newUser = new UserModel(name, email, password, type);
+    //         const db = getDb();
+    //         const collection = db.collection('users');
+    //         await collection.insertOne(newUser);
+    //         return newUser;
             
-        } catch (error) {
-            throw new Error(error.message);
-        }
-    }
+    //     } catch (error) {
+    //         throw new Error(error.message);
+    //     }
+    // }
 
-    static signIn(email, password){
-        const user = users.find((u) => u.email==email && u.password==password);
-        return user;
-    }
+    // static signIn(email, password){
+    //     const user = users.find((u) => u.email==email && u.password==password);
+    //     return user;
+    // }
 
     static getAll(){
         return users;
@@ -40,16 +36,16 @@ export default class UserModel{
     }
 }
 
-const users = [{
-    "id":"1",
-    "name":"Seller Admin",
-    "email": "selleradmin@ecom.com",
-    "password": "Password1",
-    "type":"seller"
-},{
-    "id":"2",
-    "name":"Customer",
-    "email": "customer@ecom.com",
-    "password": "Password1",
-    "type":"customer"
-}];
+// const users = [{
+//     "id":"1",
+//     "name":"Seller Admin",
+//     "email": "selleradmin@ecom.com",
+//     "password": "Password1",
+//     "type":"seller"
+// },{
+//     "id":"2",
+//     "name":"Customer",
+//     "email": "customer@ecom.com",
+//     "password": "Password1",
+//     "type":"customer"
+// }];
