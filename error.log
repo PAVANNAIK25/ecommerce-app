@@ -1,1 +1,38 @@
 {"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"error","message":"ProductRepository.getAllProducts is not a function","service":"request Logging"}
+{"level":"error","message":"ProductRepository.getAll is not a function","service":"request Logging"}
+{"level":"error","message":"productRepository is not defined","service":"request Logging"}
+{"level":"error","message":"productController.get is not a function","service":"request Logging"}
+{"level":"error","message":"productController.get is not a function","service":"request Logging"}
+{"level":"error","message":"Query filter must be a plain object or ObjectId","service":"request Logging"}
+{"level":"error","message":"Query filter must be a plain object or ObjectId","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"error","message":"Jwt Expired","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"ApplicationError is not defined","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Something went wrong with Database","service":"request Logging"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","service":"request Logging"}
